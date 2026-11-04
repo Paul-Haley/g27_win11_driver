@@ -1,8 +1,8 @@
-#Disclaimers 
+# Disclaimers 
 
 Fork of https://github.com/sqrtthatall/g27_win11_driver
 
-2026-11-05: Have not verified anything, DO NOT trust yet. Intention is code review and test against Win11 26H2
+**2026-11-05: Have not verified anything, DO NOT trust yet.** Intention is code review and test against Win11 26H2
 
 ---
 
